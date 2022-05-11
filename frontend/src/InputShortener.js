@@ -11,7 +11,7 @@ const InputShortener = ({ setInputValue }) => {
 
   return (
     <div className="inputContainer">
-      <h1>URL <span>Shortener</span></h1>
+      <h1><span>Shortly</span></h1>
       <div>
         <input
           type="text"
